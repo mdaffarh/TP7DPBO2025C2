@@ -3,6 +3,7 @@
 Saya Muhammad Daffa Rizmawan Harahap mengerjakan TP7 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
+![image](https://github.com/user-attachments/assets/649d7a9c-338a-4a05-b14f-269be8b747d4)
 
 ### 1. Basis Data
 Relasi antar tabel:
