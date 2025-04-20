@@ -24,7 +24,7 @@ Relasi:
 7. Pada tabel character bisa dilakukan searching dengan keyword sesuai atributnya.
 
 ## Dokumentasi
-
+Ada di folder screenshot pls 😭
 
   
 
