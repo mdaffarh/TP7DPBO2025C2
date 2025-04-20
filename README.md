@@ -21,6 +21,7 @@ Relasi:
 4. Klik Button Tambah Data diatas untuk menampilkan form tambah data, dan submit untuk menambahkan.
 5. Klik Button Edit Data untuk menampilkan form edit data, dan update untuk mengedit data.
 6. Klik Button Delete Data untuk menghapus data.
+7. Pada tabel character bisa dilakukan searching dengan keyword sesuai atributnya.
 
 ## Dokumentasi
 
